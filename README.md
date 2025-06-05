@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi there 👋, I'm Rizal Lazuardi</h1>
 <h3 align="center">I love building things with JavaScript, React, Tailwind, TypeScript, and PHP 🚀</h3>
 
 <!-- Animated typing -->
@@ -17,7 +17,7 @@
 
 - 🌱 Currently learning **Advanced TypeScript & Laravel**
 - 💬 Ask me about anything related to **React, Tailwind, or PHP**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [work.rizallazuardi45@gmail.com](mailto:work.rizallazuardi45@gmail.com)
 - ⚡ Fun fact: I love colorful UIs and clean code! 🎨
 
 ---
@@ -30,11 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
