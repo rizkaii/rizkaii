@@ -1,7 +1,7 @@
-<!-- Banner -->
+<!-- Banner
 <p align="center">
   <img src="banner.png" alt="banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi there 👋, I'm Rizal Lazuardi</h1>
 <h3 align="center">I love building things with JavaScript, React, Tailwind, TypeScript, and PHP 🚀</h3>
